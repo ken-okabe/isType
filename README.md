@@ -1,0 +1,4 @@
+isType
+======
+
+js isType
