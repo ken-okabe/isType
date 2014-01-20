@@ -17,8 +17,6 @@ var is = function(obj, type)
     return obj !== undefined && obj !== null && clas === type;
 }
 
-
-```
 type:''
 
 String
@@ -30,3 +28,5 @@ Array
 Function
 RegExp
 Object
+
+```
